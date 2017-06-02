@@ -1,0 +1,4 @@
+TAGGING INTERFACE
+	Tagging Interface adalah interface dengan tanpa metode abstract didalamnya
+	mereka digunakan untuk menambahkan tipe data untuk kelas yang mengimplementasikannya
+	dan menjadi Interface induk untuk Interface lain (terutama dengan multiple inheritance pada interface).
